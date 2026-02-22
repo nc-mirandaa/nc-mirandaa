@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there! I'm Nathaly Miranda 
 
-<!--
-**nc-mirandaa/nc-mirandaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Systems Engineering student** at Universidad Metropolitana. 
+I'm passionate about building innovative software solutions and 
+constantly learning new technologies to impact the tech world. 
 
-Here are some ideas to get you started:
+###  My Tech Stack
+-  Language: Python, Java.
+-  Web: HTML, CSS, JavaScript, React.js, Flutter
+-  Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+ "The best way to predict the future is to invent it."
