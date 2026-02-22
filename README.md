@@ -13,10 +13,7 @@ constantly learning new technologies to impact the tech world.
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-###  My GitHub Stats
 
-![Nathaly's GitHub stats](https://github-readme-stats.vercel.app/api?username=nc-mirandaa&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nc-mirandaa&layout=compact&theme=dark)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nathaly-miranda-7b87023b1)
 
